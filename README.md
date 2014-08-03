@@ -3,7 +3,7 @@ SimpleCuda
 
 This program was created during my third year in SSU.
 
-It geenrates 2 random matrices(1000x1000 size) and multiplies them using CUDA.
+It geenrates 2 random matrices(1000x1000 size) and multiplies them using CUDA, OpenMP or without any additional libs.
 
 For multiplying I chose the simpliest algorithm - it makes n^3 multiplications, where n is the dimension.
 
